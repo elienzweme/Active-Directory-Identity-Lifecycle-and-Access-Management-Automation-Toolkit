@@ -1,0 +1,2 @@
+# Active-Directory-Identity-Lifecycle-and-Access-Management-Automation-Toolkit
+Developed a PowerShell-based IAM automation toolkit for Active Directory that supports user provisioning, deprovisioning, account recovery, OU management, RBAC group assignment, bulk identity operations, inactive account detection, password compliance reporting, duplicate identity detection, and Joiner-Mover-Leaver lifecycle workflows.
