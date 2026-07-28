@@ -1,0 +1,3 @@
+﻿Timestamp,ExecutionID,RequestID,TicketID,EmployeeID,SamAccountName,ScriptName,Action,ErrorType,ErrorMessage,FailedStep,ComputerName,Technician
+"2026-07-27T18:05:18.1529349-07:00","2b676c00-4aed-478c-affe-f618d9db66ba","JML-1002","JIRA-IAM-1002","1001","michael.smith","Invoke-Mover.ps1","Mover","System.Management.Automation.RuntimeException","Manager 'Robert Davis' was not found.","Validation","DC01","CORP\administrator"
+"2026-07-27T18:37:13.7694846-07:00","29896285-4f3b-4eaf-8bac-5b2032026be4","JML-1002","JIRA-IAM-1002","1001","michael.smith","Invoke-Mover.ps1","Mover","System.Management.Automation.RuntimeException","Manager 'Robert Davis' was not found.","Validation","DC01","CORP\administrator"

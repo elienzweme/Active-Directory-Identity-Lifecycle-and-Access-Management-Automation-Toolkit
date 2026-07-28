@@ -1,0 +1,2 @@
+﻿Timestamp,ExecutionID,RequestID,TicketID,EmployeeID,SamAccountName,Action,HomeFolder,HomeDrive,FolderCreated,AclApplied,FolderRetained,FolderArchived,Technician,ComputerName,Status,ErrorMessage
+"2026-07-27T18:49:04.4572025-07:00","7cbc391d-0cc7-446b-8c86-fae982c1e992","JML-1003","JIRA-IAM-1003","1001","michael.smith","Leaver","\\FILE01\HomeFolders\michael.smith","H:","","","True","False","CORP\administrator","DC01","Success",""

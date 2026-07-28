@@ -1,0 +1,4 @@
+﻿ExecutionID,ScriptName,StartTime,EndTime,DurationSeconds,ComputerName,Technician,WhatIfMode,RequestsFound,RequestsProcessed,SuccessCount,FailureCount,SkippedCount,ReportRefreshResult,Result
+"2b676c00-4aed-478c-affe-f618d9db66ba","Invoke-Mover.ps1","2026-07-27T18:05:17.8279827-07:00","2026-07-27T18:05:18.2346397-07:00","0.41","DC01","CORP\administrator","True","1","0","0","1","0","NotRun","CompletedWithErrors"
+"29896285-4f3b-4eaf-8bac-5b2032026be4","Invoke-Mover.ps1","2026-07-27T18:37:12.9993757-07:00","2026-07-27T18:37:13.7924880-07:00","0.79","DC01","CORP\administrator","False","1","0","0","1","0","NotRun","CompletedWithErrors"
+"7cbc391d-0cc7-446b-8c86-fae982c1e992","Invoke-Leaver.ps1","2026-07-27T18:48:28.0124833-07:00","2026-07-27T18:49:05.0467274-07:00","37.03","DC01","CORP\administrator","False","1","1","1","0","0","Failed: The property 'DepartmentGroup' cannot be found on this object. Verify that the property exists.","Success"
