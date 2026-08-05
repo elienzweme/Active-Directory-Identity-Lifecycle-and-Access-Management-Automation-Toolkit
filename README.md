@@ -1,4 +1,4 @@
-# Enterprise IAM Engineering Lab
+# Enterprise IAM Engineering Lab v1.0
 
 ---
 
@@ -16,7 +16,18 @@
 ![Version](https://img.shields.io/badge/Version-v1.0-1F6FEB?style=flat-square)
 ![Project](https://img.shields.io/badge/Project-Completed-22A800?style=flat-square)
 
-# Enterprise IAM Engineering Lab v1.0
+---
+
+## Project Video
+
+[![Watch the Enterprise IAM Engineering Lab v1.0 Walkthrough](https://img.youtube.com/vi/R6o139408VI/maxresdefault.jpg)](https://www.youtube.com/watch?v=R6o139408VI)
+
+**Video walkthrough:**  
+[Enterprise IAM Engineering Lab v1.0 – Full Project Demonstration](https://www.youtube.com/watch?v=R6o139408VI)
+
+The video provides a walkthrough of the Active Directory environment, Role-Based Access Control, Group Policy security baseline, PowerShell Joiner-Mover-Leaver automation, file server permissions, OrangeHRM integration, and Splunk monitoring.
+
+---
 
 ## Overview
 
